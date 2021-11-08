@@ -1,0 +1,17 @@
+{
+  "name": "Mukkam",
+  "version": "1.0.0",
+  "description": "Ecommerce website",
+  "author": "atharva vohra",
+  "main": "app.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/atharva0202/mukkam.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
