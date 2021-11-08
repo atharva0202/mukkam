@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: node-hello-world-example
+  name: Mukkam
   buildpack: nodejs_buildpack
   memory: 2000M
   instances: 1
