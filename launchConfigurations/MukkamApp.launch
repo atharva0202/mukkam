@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.au-syd.cf.cloud.ibm.com",
+      "Org": "MUKKAM",
+      "Space": "v2"
+    },
+    "Name": "MukkamApp",
+    "Instrumentation": {
+      "domain": "au-syd.mybluemix.net",
+      "instances": "1"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
