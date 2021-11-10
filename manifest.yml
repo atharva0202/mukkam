@@ -1,8 +1,0 @@
----
-applications:
-- path: .
-  name: Mukkam
-  buildpack: nodejs_buildpack
-  memory: 2000M
-  instances: 1
-  random-route: true
